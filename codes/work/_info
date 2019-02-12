@@ -1,0 +1,44 @@
+m255
+K3
+13
+cModel Technology
+Z0 d/home/vadakkodan/Desktop/counter
+vShift_Register_4_beh
+Z1 !s100 [6fF^kYRHQITHzRM6Q7C90
+Z2 II4Wn9ncb0;>aVMYn:l]LP0
+Z3 VBSB^Wm8`dcMoJfa3nD52z2
+Z4 d/home/vadakkodan/Desktop/v_siso_book
+Z5 w1549871705
+Z6 8/home/vadakkodan/Desktop/v_siso_book/siso_book.v
+Z7 F/home/vadakkodan/Desktop/v_siso_book/siso_book.v
+L0 1
+Z8 OV;L;10.1d;51
+r1
+31
+Z9 !s90 -reportprogress|300|/home/vadakkodan/Desktop/v_siso_book/siso_book.v|
+o-O0
+Z10 n@shift_@register_4_beh
+!i10b 1
+!s85 0
+Z11 !s108 1549888399.704128
+Z12 !s107 /home/vadakkodan/Desktop/v_siso_book/siso_book.v|
+!s101 -O0
+vsiso_book_tb
+!i10b 1
+!s100 Hk=z2`c]YCbnk8EWB0^YP1
+I^7I_^dMnmhk@IoBn3=@aM1
+Z13 VW=`J3H>3XdQ1h_O4E?dO93
+R4
+w1549888390
+Z14 8/home/vadakkodan/Desktop/v_siso_book/siso_tb.v
+Z15 F/home/vadakkodan/Desktop/v_siso_book/siso_tb.v
+L0 3
+R8
+r1
+!s85 0
+31
+!s108 1549888399.731667
+!s107 /home/vadakkodan/Desktop/v_siso_book/siso_tb.v|
+Z16 !s90 -reportprogress|300|/home/vadakkodan/Desktop/v_siso_book/siso_tb.v|
+!s101 -O0
+o-O0

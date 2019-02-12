@@ -1,0 +1,6 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/vadakkodan/Desktop/v_siso/siso/siso.srcs/sources_1/imports/Desktop/siso.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module siso
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/vadakkodan/Desktop/v_siso/siso/siso.srcs/sim_1/imports/Desktop/siso_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module siso_tb
+INFO: [VRFC 10-2263] Analyzing Verilog file "/home/vadakkodan/Desktop/v_siso/siso/siso.sim/sim_1/behav/glbl.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module glbl

@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2016.4 (64-bit)
+# SW Build 1756540 on Mon Jan 23 19:11:19 MST 2017
+# IP Build 1755317 on Mon Jan 23 20:30:07 MST 2017
+# Start of session at: Thu Feb  7 18:08:04 2019
+# Process ID: 27831
+# Current directory: /home/vadakkodan/Desktop/v_siso/siso/impl_1
+# Command line: vivado -log siso.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source siso.tcl -notrace
+# Log file: /home/vadakkodan/Desktop/v_siso/siso/impl_1/siso.vdi
+# Journal file: /home/vadakkodan/Desktop/v_siso/siso/impl_1/vivado.jou
+#-----------------------------------------------------------
+source siso.tcl -notrace
