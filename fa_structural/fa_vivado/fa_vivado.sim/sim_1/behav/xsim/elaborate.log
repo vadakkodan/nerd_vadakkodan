@@ -1,0 +1,17 @@
+Vivado Simulator 2018.3
+Copyright 1986-1999, 2001-2018 Xilinx, Inc. All Rights Reserved.
+Running: /opt/Xilinx/Vivado/2018.3/bin/unwrapped/lnx64.o/xelab -wto 956bfc02f2b8478eaefc785a39761f5f --incr --debug typical --relax --mt 8 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot fa_tb_behav xil_defaultlib.fa_tb xil_defaultlib.glbl -log elaborate.log 
+Using 8 slave threads.
+Starting static elaboration
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4099] "/home/vadakkodan/Desktop/nerd_vadakkodan/fa_structural/fa_vivado/fa_vivado.srcs/sources_1/imports/half_adder/full_adder_stru.v" Line 1. Module fa doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/vadakkodan/Desktop/nerd_vadakkodan/fa_structural/fa_vivado/fa_vivado.srcs/sources_1/imports/vadakkodan/half_adder.v" Line 1. Module half_adder doesn't have a timescale but at least one module in design has a timescale.
+WARNING: [XSIM 43-4099] "/home/vadakkodan/Desktop/nerd_vadakkodan/fa_structural/fa_vivado/fa_vivado.srcs/sources_1/imports/vadakkodan/half_adder.v" Line 1. Module half_adder doesn't have a timescale but at least one module in design has a timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.half_adder
+Compiling module xil_defaultlib.fa
+Compiling module xil_defaultlib.fa_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot fa_tb_behav

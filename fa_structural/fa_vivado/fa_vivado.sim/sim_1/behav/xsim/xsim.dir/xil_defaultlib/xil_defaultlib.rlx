@@ -1,0 +1,8 @@
+0.6
+2018.3
+Dec  6 2018
+23:39:36
+/home/vadakkodan/Desktop/nerd_vadakkodan/fa_structural/fa_vivado/fa_vivado.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+/home/vadakkodan/Desktop/nerd_vadakkodan/fa_structural/fa_vivado/fa_vivado.srcs/sources_1/imports/half_adder/fa_tb.v,1560712292,verilog,,,,fa_tb,,,,,,,,
+/home/vadakkodan/Desktop/nerd_vadakkodan/fa_structural/fa_vivado/fa_vivado.srcs/sources_1/imports/half_adder/full_adder_stru.v,1560868288,verilog,,/home/vadakkodan/Desktop/nerd_vadakkodan/fa_structural/fa_vivado/fa_vivado.srcs/sources_1/imports/vadakkodan/half_adder.v,,fa,,,,,,,,
+/home/vadakkodan/Desktop/nerd_vadakkodan/fa_structural/fa_vivado/fa_vivado.srcs/sources_1/imports/vadakkodan/half_adder.v,1560708543,verilog,,/home/vadakkodan/Desktop/nerd_vadakkodan/fa_structural/fa_vivado/fa_vivado.srcs/sources_1/imports/half_adder/fa_tb.v,,half_adder,,,,,,,,
